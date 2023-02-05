@@ -1,6 +1,8 @@
 {
   "item.tutorialmod.black_opal": "Black Opal",
   "item.tutorialmod.raw_black_opal": "Raw Black Opal",
+  "item.tutorialmod.zircon": "Zircon",
+  "item.tutorialmod.raw_zircon": "Raw Zircon",
 
   "creativemodetab.tutorial_tab": "Tutorial Tab"
 }
