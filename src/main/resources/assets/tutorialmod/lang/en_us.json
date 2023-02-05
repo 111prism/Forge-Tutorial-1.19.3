@@ -4,5 +4,16 @@
   "item.tutorialmod.zircon": "Zircon",
   "item.tutorialmod.raw_zircon": "Raw Zircon",
 
+  "block.tutorialmod.black_opal_block": "Block of Black Opal",
+  "block.tutorialmod.black_opal_ore": "Black Opal Ore",
+  "block.tutorialmod.deepslate_black_opal_ore": "Deepslate Black Opal Ore",
+  "block.tutorialmod.netherrack_black_opal_ore": "Nether Black Opal Ore",
+  "block.tutorialmod.endstone_black_opal_ore": "End Stone Black Opal Ore",
+  "block.tutorialmod.zircon_block": "Block of Zircon",
+  "block.tutorialmod.zircon_ore": "Zircon Ore",
+  "block.tutorialmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.tutorialmod.netherrack_zircon_ore": "Nether Zircon Ore",
+  "block.tutorialmod.endstone_zircon_ore": "End Stone Zircon Ore",
+
   "creativemodetab.tutorial_tab": "Tutorial Tab"
 }
